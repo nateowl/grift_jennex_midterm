@@ -1,3 +1,5 @@
+![Time Management Clock](images/clock.jpg "clock image")
+
 #Time Management: Why You're Doing It Wrong
 
 ## Description
